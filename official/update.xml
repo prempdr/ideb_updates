@@ -1,0 +1,7 @@
+<AppUpdater>
+  <update>
+    <latestVersion>24.august</latestVersion>
+    <latestVersionCode>11</latestVersionCode>
+    <url>https://github.com/prempdr/ideb_updates/official/latest</url>
+  </update>
+</AppUpdater>
